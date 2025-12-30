@@ -1,4 +1,4 @@
-# Healthcare Diabetes Prediction using Machine Learning
+# Diabetes Prediction using Machine Learning
 
 ##  Project Overview
 This project focuses on predicting whether a patient is diabetic based on medical and health-related features. Machine learning models are trained on structured healthcare data to assist in early diagnosis and decision-making.
@@ -43,5 +43,6 @@ Dataset Link:https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 
 ##  Author
 **Jaya vardhan Karnati**
+
 
 
